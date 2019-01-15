@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" data-provider-thread-count="3" name="Failed suite [TestNG]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="2" name="BokaTest(failed)" verbose="0">
+    <classes>
+      <class name="vbet.VbetMain">
+        <methods>
+          <include name="vbet"/>
+        </methods>
+      </class> <!-- vbet.VbetMain -->
+    </classes>
+  </test> <!-- BokaTest(failed) -->
+</suite> <!-- Failed suite [TestNG] -->

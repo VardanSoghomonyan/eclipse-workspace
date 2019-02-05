@@ -14,7 +14,7 @@ public class classwork {
 		for (int i = 0; i < array.length; i++) {
 			array[i] = randGen.nextInt(50 + 1 + 50) - 100;
 			System.out.println(array[i]);
-			if (i == 0 || array[i] > max) {
+			if (array[i] > max || i==0) {
 				max = array[i];
 			}
 		}

@@ -2979,3 +2979,35 @@
 2019-01-25 18:38:55,912 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-01-25 18:38:55,917 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2019-01-26 11:19:27,393 [Worker-16] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-02 10:15:22,808 [Worker-32] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-05 10:44:48,017 [Worker-203] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-core:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-03-05 10:44:48,031 [Worker-203] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-impl:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-03-05 10:45:58,487 [Worker-203] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-05 10:45:58,488 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vardansoghomonyan/eclipse-workspace/rest_assured_automation/src/main/resources
+2019-03-05 10:45:58,489 [Worker-203] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-05 10:45:58,490 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vardansoghomonyan/eclipse-workspace/rest_assured_automation/src/test/resources
+2019-03-05 10:49:24,617 [Worker-194] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-05 10:49:24,619 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vardansoghomonyan/eclipse-workspace/rest_assured_automation/src/main/resources
+2019-03-05 10:49:24,622 [Worker-194] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-05 10:49:24,623 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vardansoghomonyan/eclipse-workspace/rest_assured_automation/src/test/resources
+2019-03-05 10:49:44,248 [Worker-194] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-05 10:49:44,249 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vardansoghomonyan/eclipse-workspace/rest_assured_automation/src/main/resources
+2019-03-05 10:49:44,251 [Worker-194] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-05 10:49:44,251 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vardansoghomonyan/eclipse-workspace/rest_assured_automation/src/test/resources
+2019-03-05 10:50:14,988 [Worker-194] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-05 10:50:14,988 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vardansoghomonyan/eclipse-workspace/rest_assured_automation/src/main/resources
+2019-03-05 10:50:14,990 [Worker-194] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-05 10:50:14,992 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vardansoghomonyan/eclipse-workspace/rest_assured_automation/src/test/resources
+2019-03-05 10:50:44,966 [Worker-207] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-05 10:50:44,967 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vardansoghomonyan/eclipse-workspace/rest_assured_automation/src/main/resources
+2019-03-05 10:50:44,968 [Worker-207] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-05 10:50:44,968 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vardansoghomonyan/eclipse-workspace/rest_assured_automation/src/test/resources
+2019-03-05 10:53:02,237 [Worker-194] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-05 10:53:02,244 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-05 10:53:02,245 [Worker-194] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-05 10:53:02,246 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-05 10:53:18,274 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-05 10:53:18,283 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-05 10:53:18,287 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-05 10:53:18,292 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-08 12:55:51,050 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

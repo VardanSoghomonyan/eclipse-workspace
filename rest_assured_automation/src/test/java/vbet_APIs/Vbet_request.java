@@ -11,7 +11,7 @@ import junit.framework.Assert;
 public class Vbet_request {
 	@Test
 	public void request_json() {
-		Response req = given().get("https://www.vbet.com/conf.json");
+		Response req = given().get("https://www.vivarobet.am/conf.json");
 		int reqCode = req.getStatusCode();
 		System.out.println("get code is :" + reqCode);
 		if (reqCode == 200) req.prettyPrint();

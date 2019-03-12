@@ -2,7 +2,7 @@ package arrays;
 
 import java.util.Random;
 
-public class classwork {
+public class Classwork {
 	public static void main(String[] args) {
 		System.out.println("Maximum is " + maximum());
 	}

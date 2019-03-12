@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 //import java.util.regex.Pattern;
 //import java.util.regex.Matcher;
 
-public class regExp2 {
+public class RegExp2 {
 	public static void main(String[] args) {
 
 		Pattern p = Pattern.compile("(?:\\(\\d{3}\\)|\\d{3}[-]*)\\d{3}[-]*\\d{4}");

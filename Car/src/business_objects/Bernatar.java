@@ -1,8 +1,8 @@
 package business_objects;
 
-public class Bernatar extends Car implements BernatarActions{
+public class Bernatar extends Car implements BernatarActions {
 	private double kuzovVolume;
-	private double isSamasval;
+	private boolean isSamasval;
 
 	@Override
 	public boolean isSamasval() {
@@ -12,5 +12,4 @@ public class Bernatar extends Car implements BernatarActions{
 		return false;
 	}
 
-	
 }

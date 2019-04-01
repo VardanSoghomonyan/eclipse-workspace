@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Car/Car.iml" filepath="$PROJECT_DIR$/Car/Car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jermoc/Jermoc.iml" filepath="$PROJECT_DIR$/Jermoc/Jermoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LevelUp/LevelUp.iml" filepath="$PROJECT_DIR$/LevelUp/LevelUp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoteSystemsTempFiles/RemoteSystemsTempFiles.iml" filepath="$PROJECT_DIR$/RemoteSystemsTempFiles/RemoteSystemsTempFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Training/Training.iml" filepath="$PROJECT_DIR$/Training/Training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest_assured_automation/rest_assured_automation.iml" filepath="$PROJECT_DIR$/rest_assured_automation/rest_assured_automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-automation/web-automation.iml" filepath="$PROJECT_DIR$/web-automation/web-automation.iml" />
+    </modules>
+  </component>
+</project>

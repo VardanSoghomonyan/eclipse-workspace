@@ -18,7 +18,7 @@ public class VbetMain {
 		// Create a new instance of the Firefox driver
 		// Notice that the remainder of the code relies on the interface,
 		// not the implementation.
-		System.setProperty("webdriver.chrome.driver", "/Users/vardansoghomonyan/chromedriver");
+		System.setProperty("webdriver.chrome.driver", "/Users/vardan/TestAutomation/SeleniumWeb/src/main/resources/chromedriver");
 		WebDriver driver = new ChromeDriver();
 
 		// And now use this to visit Google

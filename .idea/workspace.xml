@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="203a3ad2-0dbb-48e8-8072-e399209a88f1" name="Default Changelist" comment="" />
+    <list default="true" id="203a3ad2-0dbb-48e8-8072-e399209a88f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Jermoc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jermoc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jermoc/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Car/Car.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Car/Car.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jermoc/Jermoc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Jermoc/Jermoc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LevelUp/LevelUp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LevelUp/LevelUp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RemoteSystemsTempFiles/RemoteSystemsTempFiles.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RemoteSystemsTempFiles/RemoteSystemsTempFiles.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Training.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Training/Training.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_assured_automation/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rest_assured_automation/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_assured_automation/rest_assured_automation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rest_assured_automation/rest_assured_automation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_assured_automation/src/test/java/getRequest/GetRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/rest_assured_automation/src/test/java/getRequest/GetRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-automation/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-automation/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-automation/src/test/java/vbet/VbetMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-automation/src/test/java/vbet/VbetMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-automation/web-automation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/web-automation/web-automation.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/Car/bin/" />
     <ignored path="$PROJECT_DIR$/Jermoc/bin/" />
     <ignored path="$PROJECT_DIR$/LevelUp/bin/" />
@@ -15,13 +31,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Car/src/testExecption/Main.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rest_assured_automation/src/test/java/getRequest/GetRequest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="225">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,34 +52,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Car/src/testExecption/MissingParameterException.java">
+        <entry file="file://$PROJECT_DIR$/rest_assured_automation/src/test/java/responseRequest/GetAndPostCall.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="171">
+              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
               <folding>
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#161#162#0" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LevelUp/src/arraylists/ArrayListMethods.java">
+        <entry file="file://$PROJECT_DIR$/rest_assured_automation/src/test/java/responseRequest/ResponseRequest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="270">
+              <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LevelUp/src/levelUpFirst/Enum.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rest_assured_automation/src/test/java/responseRequest/PostCall.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="225">
+              <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rest_assured_automation/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -83,17 +114,20 @@
         <option value="$PROJECT_DIR$/LevelUp/src/levelUpFirst/Xaxaqart.java" />
         <option value="$PROJECT_DIR$/LevelUp/src/levelUpFirst/Enum.java" />
         <option value="$PROJECT_DIR$/LevelUp/src/arraylists/ArraylistMethods.java" />
-        <option value="$PROJECT_DIR$/LevelUp/src/arraylists/ArrayListMethods.java" />
         <option value="$PROJECT_DIR$/Car/src/testExecption/MissingParameterException.java" />
         <option value="$PROJECT_DIR$/Car/src/testExecption/Main.java" />
+        <option value="$PROJECT_DIR$/rest_assured_automation/src/test/java/vbet_APIs/Vbet_request.java" />
+        <option value="$PROJECT_DIR$/LevelUp/src/arraylists/ArrayListMethods.java" />
+        <option value="$PROJECT_DIR$/rest_assured_automation/src/test/java/getRequest/GetRequest.java" />
+        <option value="$PROJECT_DIR$/web-automation/pom.xml" />
+        <option value="$PROJECT_DIR$/web-automation/src/test/java/vbet/VbetMain.java" />
+        <option value="$PROJECT_DIR$/rest_assured_automation/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="25" />
-    <option name="width" value="1853" />
-    <option name="height" value="1055" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="800" />
+    <option name="height" value="600" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -103,45 +137,71 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="eclipse-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LevelUp" type="462c0819:PsiDirectoryNode" />
+              <item name="rest_assured_automation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="eclipse-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LevelUp" type="462c0819:PsiDirectoryNode" />
+              <item name="rest_assured_automation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="eclipse-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LevelUp" type="462c0819:PsiDirectoryNode" />
+              <item name="rest_assured_automation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="arraylists" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="eclipse-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LevelUp" type="462c0819:PsiDirectoryNode" />
+              <item name="rest_assured_automation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="levelUpFirst" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eclipse-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest_assured_automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="getRequest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eclipse-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest_assured_automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="responseRequest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eclipse-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553871259674" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
@@ -157,48 +217,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="ArrayListMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraylists.ArrayListMethods" />
-      <module name="LevelUp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arraylists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.GetRequest.testResponce">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="levelUpFirst.Calculator" />
-      <module name="LevelUp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="levelUpFirst.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorWithEnums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="levelUpFirst.CalculatorWithEnums" />
-      <module name="LevelUp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="levelUpFirst.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Enum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="levelUpFirst.Enum" />
       <module name="LevelUp" />
       <extension name="coverage">
         <pattern>
@@ -223,13 +244,62 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GetAndPostCall" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rest_assured_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="responseRequest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="responseRequest" />
+      <option name="MAIN_CLASS_NAME" value="responseRequest.GetAndPostCall" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetAndPostCall.RegistrationSuccessful" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rest_assured_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="responseRequest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="responseRequest" />
+      <option name="MAIN_CLASS_NAME" value="responseRequest.GetAndPostCall" />
+      <option name="METHOD_NAME" value="RegistrationSuccessful" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetRequest.testResponce" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="rest_assured_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="getRequest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="getRequest" />
+      <option name="MAIN_CLASS_NAME" value="getRequest.GetRequest" />
+      <option name="METHOD_NAME" value="testResponce" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ArrayListMethods" />
-        <item itemvalue="Application.Enum" />
-        <item itemvalue="Application.CalculatorWithEnums" />
+        <item itemvalue="TestNG.GetRequest.testResponce" />
+        <item itemvalue="JUnit.GetAndPostCall.RegistrationSuccessful" />
+        <item itemvalue="JUnit.GetAndPostCall" />
         <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -258,17 +328,20 @@
       <workItem from="1553870266727" duration="1002000" />
       <workItem from="1553934778851" duration="54000" />
       <workItem from="1554101312912" duration="907000" />
+      <workItem from="1554205179119" duration="4468000" />
+      <workItem from="1554826340750" duration="8374000" />
+      <workItem from="1558434308835" duration="310000" />
+      <workItem from="1558540024982" duration="5526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29231000" />
+    <option name="totallyTimeSpent" value="49242000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22191478" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2008547" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -277,7 +350,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22786178" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22755101" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -287,7 +360,8 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32937366" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32959184" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -328,9 +402,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RemoteSystemsTempFiles/.project">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Jermoc/src/staff_module/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -345,35 +416,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LevelUp/src/arrays/ArrayMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1335">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../jdk-12/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="498" column="20" lean-forward="true" selection-start-line="498" selection-start-column="20" selection-end-line="498" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../jdk-12/lib/src.zip!/java.base/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="669" column="63" selection-start-line="669" selection-start-column="63" selection-end-line="669" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk-12/lib/src.zip!/java.base/java/util/ArrayList.java" />
+    <entry file="jar://$PROJECT_DIR$/../jdk-12/lib/src.zip!/java.base/java/util/Collections.java" />
     <entry file="file://$PROJECT_DIR$/LevelUp/src/levelUpFirst/CalculatorWithEnums.java" />
-    <entry file="file://$PROJECT_DIR$/LevelUp/src/levelUpFirst/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LevelUp/src/regexp/RegExp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -425,17 +470,168 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LevelUp/src/arraylists/ArrayListMethods.java">
+    <entry file="file://$PROJECT_DIR$/Car/src/accounting/Accounting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="195">
+          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/RemoteSystemsTempFiles/.project">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LevelUp/src/arrays/PrintBiggerNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LevelUp/src/arrays/Classwork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LevelUp/src/levelUpFirst/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/.project">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/LevelUp/src/levelUpFirst/Enum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LevelUp/src/arraylists/ArrayListMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-automation/src/test/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/src/vbet1/VbetMain1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training/src/helloWorld/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest_assured_automation/src/test/java/vbet_APIs/Vbet_request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-automation/src/test/java/vbet/VbetMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-automation/src/test/java/driverSetup/DriverSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-automation/src/test/java/jUnit/JUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#912#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-automation/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest_assured_automation/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest_assured_automation/src/test/java/responseRequest/PostCall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest_assured_automation/src/test/java/responseRequest/GetAndPostCall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest_assured_automation/src/test/java/responseRequest/ResponseRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LevelUp/src/arrays/ArrayMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest_assured_automation/src/test/java/getRequest/GetRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -502,7 +698,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Car</last-edited>
+          <last-edited>web-automation</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -527,6 +723,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>.mylyn</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

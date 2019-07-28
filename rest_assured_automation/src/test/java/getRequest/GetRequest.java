@@ -1,11 +1,10 @@
 package getRequest;
 
-import static io.restassured.RestAssured.*;
-
-import org.junit.Test;
-
 import io.restassured.response.Response;
 import junit.framework.Assert;
+import org.testng.annotations.Test;
+
+import static io.restassured.RestAssured.*;
 
 public class GetRequest {
 	@Test
